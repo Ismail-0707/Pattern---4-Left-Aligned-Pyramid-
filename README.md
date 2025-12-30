@@ -1,0 +1,1 @@
+# Pattern---4-Left-Aligned-Pyramid-
